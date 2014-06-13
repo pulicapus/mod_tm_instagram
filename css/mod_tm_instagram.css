@@ -1,0 +1,9 @@
+.mod_tm_instagram ul{
+	list-style: none;
+	margin: 0 0 0 -20px;
+}
+.mod_tm_instagram li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+}

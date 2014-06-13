@@ -1,2 +1,4 @@
-mod_tm_instagram
-================
+joomla__mod_tm_instagram
+==========================
+
+Joomla TM Instagram module
